@@ -1,0 +1,5 @@
+What is Azure used for?
+Microsoft Azure, formerly known as Windows Azure, is 
+Microsoft's public cloud computing platform. 
+It provides a range of cloud services, including compute, 
+analytics, storage and networking.
